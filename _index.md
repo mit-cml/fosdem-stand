@@ -8,7 +8,7 @@ description: MIT App Inventor is an open source (Apache Software License 2.0) pl
   extensions to allow people to learn about training and evaluating custom ML models
   without sending data to any third parties.
 layout: stand
-logo: stands/mit_app_inventor/logo.png
+logo: /stands/mit_app_inventor/logo.png 
 new_this_year: In the last year we have implemented support for dictionaries in the
   App Inventor language. We have introduced support for newer Android APIs. These
   facilities make it easier to interoperate with JSON and XML data. We are also developing
