@@ -32,4 +32,5 @@ themes:
 title: MIT App Inventor
 website: https://appinventor.mit.edu
 show_on_overview: true
+chatroom: appinventor
 ---
